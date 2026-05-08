@@ -41,12 +41,6 @@ Currently pursuing certifications in:
 
 I am also co-founding **Guideian**, an AI-powered career readiness platform helping South African youth make informed post-school decisions.
 
-### Recent Milestones
-
-- Top 10 nationally at Enactus South Africa
-- Preparing Guideian for deployment on the Apple App Store and Google Play Store
-- Dean’s Merit List 2025
-- Building real-world AI and analytics projects
 
 ---
 
