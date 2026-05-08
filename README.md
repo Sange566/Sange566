@@ -9,7 +9,7 @@
 BCom (Hons) Information Systems Candidate  
 University of the Western Cape · Cape Town, South Africa
 
-Dean’s Merit List 2025
+Dean’s Merit List
 
 <br/>
 
@@ -83,11 +83,7 @@ I am also co-founding **Guideian**, an AI-powered career readiness platform help
 - [Servo Dashboard IoT](https://github.com/Sange566/servo-dashboard-iot)
 - [Employee Management Flask APEX](https://github.com/Sange566/employee-management-flask-apex)
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-</p>
+# GitHub Analytics
 
 <br/>
 
