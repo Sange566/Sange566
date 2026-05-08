@@ -76,40 +76,18 @@ I am also co-founding **Guideian**, an AI-powered career readiness platform help
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-<div align="center">
+- [Irrigation System](https://github.com/Sange566/Irrigation-System)
+- [Smart Waste Sorting System Using Deep Learning and Computer Vision](https://github.com/Sange566/Smart-Waste-Sorting-System-Using-Deep-Learning-and-Computer-Vision)
+- [Servo Dashboard IoT](https://github.com/Sange566/servo-dashboard-iot)
+- [Employee Management Flask APEX](https://github.com/Sange566/employee-management-flask-apex)
 
-<a href="https://github.com/Sange566/Irrigation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sange566&repo=Irrigation-System&theme=default&hide_border=true&cache_seconds=1800" />
-</a>
+## GitHub Analytics
 
-<a href="https://github.com/Sange566/Smart-Waste-Sorting-System-Using-Deep-Learning-and-Computer-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sange566&repo=Smart-Waste-Sorting-System-Using-Deep-Learning-and-Computer-Vision&theme=default&hide_border=true&cache_seconds=1800" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Sange566/servo-dashboard-iot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sange566&repo=servo-dashboard-iot&theme=default&hide_border=true&cache_seconds=1800" />
-</a>
-
-<a href="https://github.com/Sange566/employee-management-flask-apex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sange566&repo=employee-management-flask-apex&theme=default&hide_border=true&cache_seconds=1800" />
-</a>
-
-</div>
-
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sange566&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sange566&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=1800" />
-
-</div>
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
 
 <br/>
 
